@@ -5,3 +5,5 @@
 
 02/22/2022 - Went over Chapter 10 Concurrency in Go, just briefly. Thisrequires a lot more time to get it settled. 
 Next: Chapter 11. The Standard Library
+
+02/28/2022 - Continue working through Chapter 11 ended up at "net/http" section
