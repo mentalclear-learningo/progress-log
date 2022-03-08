@@ -9,3 +9,5 @@ Next: Chapter 11. The Standard Library
 02/28/2022 - Continue working through Chapter 11 ended up at "net/http" section
 
 03/04/2022 - Continue Chapter 13 - Writing Tests with: Use go-cmp to Compare Test Results
+
+03/08/2022 - Continue Chapter 13 with Benchmarks.
