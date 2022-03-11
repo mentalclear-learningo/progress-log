@@ -13,3 +13,5 @@ Next: Chapter 11. The Standard Library
 03/08/2022 - Continue Chapter 13 with Benchmarks.
 
 03/09/2022 - Continue Chapter 13 with Stubs in Go
+
+03/11/2022 - Continue with Chapter 14 now.
