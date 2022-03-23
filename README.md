@@ -15,3 +15,8 @@ Next: Chapter 11. The Standard Library
 03/09/2022 - Continue Chapter 13 with Stubs in Go
 
 03/11/2022 - Continue with Chapter 14 now.
+
+03/23/2022 - Switched to another book, more practical: 
+`Pro Go: The Complete Guide to Programming Reliable and Efficient Software Using Golang`
+Continue with: 2. Putting Go in Context
+https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/9781484273555/html/512642_1_En_2_Chapter.xhtml
