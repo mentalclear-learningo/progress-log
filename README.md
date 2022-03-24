@@ -20,3 +20,5 @@ Next: Chapter 11. The Standard Library
 `Pro Go: The Complete Guide to Programming Reliable and Efficient Software Using Golang`
 Continue with: 2. Putting Go in Context
 https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/9781484273555/html/512642_1_En_2_Chapter.xhtml
+
+03/24/2022 - Completed chapters 2-4, next - Chapter 5
