@@ -24,3 +24,5 @@ https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/978148427
 03/24/2022 - Completed chapters 2-4, Continnue Chapter 5 with Parsing Integers
 
 03/25/2022 - Continue with Chapter 7
+
+03/26/2022 - Continue with Chapter 7 with Working with Slices
