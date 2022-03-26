@@ -25,4 +25,4 @@ https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/978148427
 
 03/25/2022 - Continue with Chapter 7
 
-03/26/2022 - Continue with Chapter 7 with Working with Slices
+03/26/2022 - Continue with Chapter 7 with Working with Maps
