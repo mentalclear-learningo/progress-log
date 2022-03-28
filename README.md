@@ -26,3 +26,5 @@ https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/978148427
 03/25/2022 - Continue with Chapter 7
 
 03/26/2022 - Continue with Chapter 7 with Understanding the Dual Nature of Strings
+
+03/27/2022 - Continue Chapter 7 with Converting a String to Runes
