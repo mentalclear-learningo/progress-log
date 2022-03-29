@@ -32,4 +32,5 @@ https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/978148427
 03/28/2022 - Completed Chapter 7, 8, continue with Chapter 9
            - Continue Chapter 9 with Using Functions as Results
 
-03/29/2022 - Completed Chapter 9, Continue with Chapter 10           
+03/29/2022 - Completed Chapter 9, Continue with Chapter 10 
+           - Continue Chapter 10 with Understanding Struct Constructor Functions          
