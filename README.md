@@ -37,3 +37,5 @@ https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/978148427
 
 03/30/2022 - Competed Chapter 10. Continue Chapter 11 with Understanding Method Overloading
            - Continue with: Putting Types and Methods in Separate Files 
+
+03/31/2022 - Continue Chapter 11 with Understanding the Effect of Pointer Method Receivers
