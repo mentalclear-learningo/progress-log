@@ -36,3 +36,4 @@ https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/978148427
            - Continue Chapter 10 with Understanding Struct Constructor Functions          
 
 03/30/2022 - Competed Chapter 10. Continue Chapter 11 with Understanding Method Overloading
+           - Continue with: Putting Types and Methods in Separate Files 
