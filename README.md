@@ -39,3 +39,5 @@ https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/978148427
            - Continue with: Putting Types and Methods in Separate Files 
 
 03/31/2022 - Continue Chapter 11 with Understanding the Effect of Pointer Method Receivers
+
+04/01/2022 - Completed Chapter 11 and 12, continue with Chapter 13 Type and Interface Composition
