@@ -41,3 +41,5 @@ https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/978148427
 03/31/2022 - Continue Chapter 11 with Understanding the Effect of Pointer Method Receivers
 
 04/01/2022 - Completed Chapter 11 and 12, continue with Chapter 13 Type and Interface Composition
+
+04/02/2022 - Completed Chapter 13, start with Chapter 14. Using Goroutines and Channels
