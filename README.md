@@ -45,3 +45,4 @@ https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/978148427
 04/02/2022 - Completed Chapter 13, start with Chapter 14. Using Goroutines and Channels
 
 04/03/2022 - Continue Chapter 14 with Understanding How Go Executes Code
+           - Continue Chapter 14 with Working with Channels 
