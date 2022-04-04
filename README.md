@@ -47,4 +47,5 @@ https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/978148427
 04/03/2022 - Continue Chapter 14 with Understanding How Go Executes Code
            - Continue Chapter 14 with Working with Channels 
 
-04/04/2022 - Completed Chapter 14, continue with Chapter 15           
+04/04/2022 - Completed Chapter 14, continue with Chapter 15
+           - Completed Chapter 15, continue with Chapter 16             
