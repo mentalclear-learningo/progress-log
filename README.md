@@ -49,3 +49,5 @@ https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/978148427
 
 04/04/2022 - Completed Chapter 14, continue with Chapter 15
            - Completed Chapter 15, continue with Chapter 16             
+
+04/05/2022 - Completed Chapter 16, Continue Chapter 17 Formatting and Scanning Strings           
