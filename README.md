@@ -51,3 +51,6 @@ https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/978148427
            - Completed Chapter 15, continue with Chapter 16             
 
 04/05/2022 - Completed Chapter 16, Continue Chapter 17 Formatting and Scanning Strings           
+
+04/06/2022 - Completed Chapter 17, 18 continue with Chapter 19 Dates, Times, and Durations
+           
