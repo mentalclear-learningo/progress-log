@@ -55,4 +55,6 @@ https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/978148427
 04/06/2022 - Completed Chapter 17, 18 continue with Chapter 19 Dates, Times, and Durations
 
 04/07/2022 - Completed Chapter 19, continue with Chapter 20
+
+04/08/2022 - Continue chapter 20 with "Writing Formatted Strings to a Writer"
            
