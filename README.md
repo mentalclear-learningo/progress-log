@@ -57,4 +57,6 @@ https://learning-oreilly-com.lcpl.idm.oclc.org/library/view/pro-go-the/978148427
 04/07/2022 - Completed Chapter 19, continue with Chapter 20
 
 04/08/2022 - Continue chapter 20 with "Writing Formatted Strings to a Writer"
+
+04/10/2022 - Completed Chapter 20, continue with Chapter 21 - Working with JSON data
            
